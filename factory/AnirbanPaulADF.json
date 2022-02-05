@@ -1,0 +1,9 @@
+{
+	"name": "AnirbanPaulADF",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ba2045e0-890a-447d-9a44-165a2386e648",
+		"tenantId": "823dd38e-9780-4edf-bd91-28608ccd4be3"
+	}
+}
